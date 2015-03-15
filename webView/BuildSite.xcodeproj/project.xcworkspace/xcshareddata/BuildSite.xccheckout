@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9F91A4B7-E1B7-4E63-AC13-0D5D3FB76247</string>
+	<key>IDESourceControlProjectName</key>
+	<string>BuildSite</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E14206BD-46E6-4246-9ACE-B0DEEDF784C4</key>
+		<string>http://svn.58corp.com/duanzu/trunk/emc/diywebsite/app/ios</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>BuildSite.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E14206BD-46E6-4246-9ACE-B0DEEDF784C4</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>E14206BD-46E6-4246-9ACE-B0DEEDF784C4</key>
+		<string>http://svn.58corp.com/duanzu</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://svn.58corp.com/duanzu/trunk/emc/diywebsite/app/ios/BuildSite.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E14206BD-46E6-4246-9ACE-B0DEEDF784C4</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryBranchesRelativeLocationKey</key>
+			<string>branches</string>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlRepositoryTagsRelativeLocationKey</key>
+			<string>tags</string>
+			<key>IDESourceControlRepositoryTrunkRelativeLocationKey</key>
+			<string>trunk</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E14206BD-46E6-4246-9ACE-B0DEEDF784C4</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ios</string>
+		</dict>
+	</array>
+</dict>
+</plist>
